@@ -6,3 +6,10 @@ for netflix
 
 
 [DOS Design](https://www.figma.com/file/QkCo9bv0qO5Sm63bFyD2xK/Figma-Admin-Dashboard-Kit-(Community)?node-id=15%3A858&t=hhmShMyydyqA2wOP-0)
+
+
+## feature-list
+
+- [ ] uno
+
+- [ ] .
